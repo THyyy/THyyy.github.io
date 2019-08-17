@@ -1943,7 +1943,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #f6ff6e;
+  background: #17ffff;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3112,11 +3112,9 @@ pre .javascript .function {
   }
 }
 body {
-  background-size: auto;
   background: url("https://wx4.sinaimg.cn/mw1024/6dd2f9a2gy1fqck9qz5wxj21kw11xe81.jpg");
   background-attachment: scroll;
-  background-repeat: repeat;
-  background-position: center;
+  background-size: cover;
 }
 .header-inner {
   opacity: 0.8;
